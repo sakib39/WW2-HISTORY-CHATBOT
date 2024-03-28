@@ -1,4 +1,5 @@
-Interactive World War II History Chatbot
+# Interactive World War II History Chatbot
+
 Overview
 This project is an interactive chat application designed to educate users about World War II, spanning from 1937 to 1950. Utilizing advanced natural language processing through a Language Learning Model (LLM), the chatbot provides informative responses to user inquiries about various aspects of World War II, including major events, figures, and historical contexts. This application aims to make learning history engaging and accessible through conversational AI.
 
